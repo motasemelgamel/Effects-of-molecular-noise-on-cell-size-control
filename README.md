@@ -1,2 +1,2 @@
 # Effects-of-molecular-noise-on-cell-size-control
-Code used in the simulation and data analysis in the paper "Effects of molecular noise on cell size control" https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.098403
+Code used for simulations and data analysis in the paper "Effects of molecular noise on cell size control": https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.098403
